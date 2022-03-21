@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  
  
  <h1 align="center">Hi 👋, I'm Pranav Dalvi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN stack. Passionate about building user-centric products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavdalvi9&label=Profile%20views&color=0e75b6&style=flat" alt="pranavdalvi9" /> </p>
 
