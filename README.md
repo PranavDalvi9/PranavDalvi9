@@ -11,6 +11,10 @@
 - :mailbox: How to reach me:  :heavy_check_mark:[Linkedin](https://www.linkedin.com/in/pranavsanjaydalvi)
 - :zap: Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
 
+
+## Portfolios and Projects
+https://pranavdalvi.herokuapp.com/
+
 ## :hammer_and_wrench: Technologies and Tools I use:
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
