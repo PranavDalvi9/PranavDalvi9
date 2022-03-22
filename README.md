@@ -31,3 +31,20 @@
  <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25px"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
+
+
+p align="left"> <img src="https://komarev.com/ghpvc/?username=shaantanu9&label=Profile%20views&color=0e75b6&style=flat-square" alt="shaantanu9" /> </p>
+<p> <img src="https://img.shields.io/github/followers/shaantanu9?style=social" alt="shaantanu9" /> </p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love talking About Code and meeting with different people </b>so if you want to say hi, <b> I'll be curious to know more!</b> :blush::blush:</em>
+##  Let's get connected:
+<p>
+<a href="https://www.linkedin.com/in/pranavsanjaydalvi"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/pranavsanjaydalvi/" height="35px"/></a>
+<a href="https://twitter.com/pranavdalvi09"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white?link=https://twitter.com/pranavdalvi09" height="35px"/></a>
+<a href="https://www.quora.com/profile/Pranav-Dalvi-24"><img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white?link=https://www.quora.com/profile/Pranav-Dalvi-24" height="35px"/></a>
+</p>
+## :bar_chart: My GitHub Data:
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PranavDalvi9&show_icons=true" />
+  <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavDalvi9" alt="shantanu-bombatkar-language" >
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavDalvi9&" alt="PranavDalvi9" />
+</div>
