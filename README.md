@@ -1,49 +1,9 @@
-<!-- ### Hi there 👋
-
-<!--
-**PranavDalvi9/PranavDalvi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- -->
- 
- 
- 
- <h1 align="center">Hi 👋, I'm Pranav Dalvi</h1>
-<h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN stack. Passionate about building user-centric products.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavdalvi9&label=Profile%20views&color=0e75b6&style=flat" alt="pranavdalvi9" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavdalvi9" alt="pranavdalvi9" /></a> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on [Paula’s Choice Skincare](https://friendly-edison-187e8d.netlify.app/)
-
-- 🤝 I’m looking for help with [Tata 1 mg](https://github.com/meghashyamgollu/1mg-construct)
-
-- 📫 How to reach me **pranavdalvi9@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranavsanjaydalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranavsanjaydalvi" height="30" width="40" /></a>
- <a href="https://twitter.com/in/https://www.linkedin.com/in/pranavsanjaydalvi" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="https://www.linkedin.com/in/pranavsanjaydalvi" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/97d0a6e43d5635a95918b239346676fa9e85bd3ecbf1664b2cd122f85d5a3756/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d68747470732533412532462532467777772e6d656d656e746f746563682e696e253246617373657473253246696d6167657325324669636f6e73253246657870726573732e706e6726663d31266e6f66623d31" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavdalvi9&show_icons=true&locale=en&layout=compact" alt="pranavdalvi9" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavdalvi9&show_icons=true&locale=en" alt="pranavdalvi9" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavdalvi9&" alt="pranavdalvi9" /></p>
+### नमस्ते (Namaste):pray::skin-tone-2:, I am Pranav Dalvi [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+### 𝓘 𝓪𝓶 𝓪  B.E.  𝓼𝓽𝓾𝓭𝓮𝓷t ,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭 𝓽𝓸𝔀𝓪𝓻𝓭𝓼  Web Development, MERN Stack, API designing 𝓪𝓷𝓭 Crpyto :heart:
+- :telescope: I’m currently working on :- MERN Stack and Develping React Sites
+- :seedling: I’m currently learning :- MERN Stack and React
+- :thinking_face: I’m looking for help with :- React and Scalable Systems design
+- :speech_balloon: Ask me about:- Anything ( not my personal life , duhh !! )
+- :mailbox: How to reach me:  :heavy_check_mark:[Linkedin](https://www.linkedin.com/in/pranavsanjaydalvi)
+- :zap: Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
