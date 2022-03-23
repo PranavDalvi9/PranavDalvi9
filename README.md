@@ -12,8 +12,7 @@
 - :zap: Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
 
 
-## Portfolios and Projects
-https://pranavdalvi.herokuapp.com/
+## Here is the link of my personal portfolio: https://pranavdalvi.herokuapp.com/
 
 ## :hammer_and_wrench: Technologies and Tools I use:
 <p>
