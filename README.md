@@ -45,7 +45,7 @@
 <a href="https://twitter.com/pranavdalvi09"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white?link=https://twitter.com/pranavdalvi09" height="35px"/></a>
 <a href="https://www.quora.com/profile/Pranav-Dalvi-24"><img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white?link=https://www.quora.com/profile/Pranav-Dalvi-24" height="35px"/></a>
 </p>
-# :bar_chart:  My GitHub Data:
+ :bar_chart:  My GitHub Data:
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PranavDalvi9&show_icons=true" />
   <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavDalvi9" alt="shantanu-bombatkar-language" >
