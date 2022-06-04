@@ -12,8 +12,8 @@
 - :zap: Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
 
 
-## Here is the link of my personal portfolio: https://pranavdalvi.herokuapp.com/
-
+## Here is the link of my personal portfolio: [Pranav Dalvi](https://pranavdalvi.herokuapp.com/)
+<!-- Pranav Dalvi - [My Linkedin](https://www.linkedin.com/in/pranavsanjaydalvi/) -->
 ## :hammer_and_wrench: Technologies and Tools I use:
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
