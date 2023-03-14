@@ -3,10 +3,9 @@
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 
 
-### 𝓘 𝓪𝓶 𝓪  B.E.  𝓼𝓽𝓾𝓭𝓮𝓷t ,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭 𝓽𝓸𝔀𝓪𝓻𝓭𝓼  Web Development, MERN Stack, API designing 𝓪𝓷𝓭 Crpyto :heart:
-- :telescope: I’m currently working on :- MERN Stack and Develping React Sites
-- :seedling: I’m currently learning :- MERN Stack and React
-- 🤔 I’m looking for help with :- React and Scalable Systems design
+### 𝓘 𝓪𝓶 𝓪  B.E.  𝓼𝓽𝓾𝓭𝓮𝓷t ,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭 𝓽𝓸𝔀𝓪𝓻𝓭𝓼 Mobile Development, Web Development, MERN Stack, API designing 𝓪𝓷𝓭 Crpyto :heart:
+- :telescope: I’m currently working on :- Mobile Application Development 
+- 🤔 I’m looking for help with :- Scalable Systems design
 - :speech_balloon: Ask me about:- Anything ( not my personal life , duhh !! )
 - :mailbox: How to reach me:  :heavy_check_mark:[Linkedin](https://www.linkedin.com/in/pranavsanjaydalvi)
 - :zap: Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
