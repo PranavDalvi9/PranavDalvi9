@@ -1,6 +1,6 @@
 ### नमस्ते (Namaste):pray:, I am Pranav Dalvi [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
+<a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer+Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 
 
 ### 𝓘 𝓪𝓶 𝓪  B.E.  𝓼𝓽𝓾𝓭𝓮𝓷t ,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭 𝓽𝓸𝔀𝓪𝓻𝓭𝓼 Mobile Development, Web Development, MERN Stack, API designing 𝓪𝓷𝓭 Crpyto :heart:
